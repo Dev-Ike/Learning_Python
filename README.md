@@ -10,7 +10,7 @@ Python is a versatile, beginner-friendly programming language that's widely used
 
 - Automate everyday tasks
 - Build useful scripts and apps
-- Transition into data science and machine learning
+- Transition into Computer Science
 - Improve my overall programming skills
 
 ---
