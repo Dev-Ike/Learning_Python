@@ -12,6 +12,8 @@ class Car:
         print("Car Engine:", self.engine)
         print("Car Color:", self.color)
 
+
+
 bmw = Car(4, "Hybrid", "Blue")
 ferrari = Car(4, "Fuel", "Red")
 
@@ -25,6 +27,7 @@ ferrari.speed = 350
 
 print(f"BMW - Seats: {bmw.seats}")
 print(f"Ferrari - Gears: {ferrari.gears}, Speed: {ferrari.speed}")
+
 
 print("Location BMW", bmw.location)
 print("Location Ferrari", ferrari.location)
