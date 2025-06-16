@@ -1,4 +1,5 @@
 class Vehicle:
+    
     def __init__(self, brand, speed):
         self.brand = brand
         self.__speed = speed # private variable
